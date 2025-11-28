@@ -1,0 +1,5 @@
+{
+  "name": "Gestion Import-Groupage",
+  "description": "Application complète pour la gestion de groupages, stock, commandes, livraisons et finances pour le commerce import-export.",
+  "requestFramePermissions": []
+}
